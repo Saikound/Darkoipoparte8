@@ -1,0 +1,1 @@
+scrUseItem(Item_Potion);
